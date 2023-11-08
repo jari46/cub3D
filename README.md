@@ -34,4 +34,4 @@ description file 규칙에 따라 새로운 맵을 직접 생성하여 프로그
 <img width="530" alt="image" src="https://github.com/nemotheswimmer/cub3D/assets/88709878/26e9bd36-0114-4c38-8dc2-88bec16a7ea8">
 
 ## Blog Post
-코드에 대한 자세한 설명을 [Lode's Computer Graphics Tutorial: Raycasting에 대한 조금 긴 사설](https://velog.io/@letmeshare46/Lodes-Computer-Graphics-Tutorial-Raycasting에-대한-조금-긴-사설-ejnvpz1p)에 작성했으니 참고해주세요.
+코드에 대한 자세한 설명이 [Lode's Computer Graphics Tutorial: Raycasting에 대한 조금 긴 사설](https://velog.io/@letmeshare46/Lodes-Computer-Graphics-Tutorial-Raycasting에-대한-조금-긴-사설-ejnvpz1p)에 있습니다.
