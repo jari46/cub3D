@@ -1,4 +1,4 @@
-## Decription
+# cud3D
 레이캐스팅 원리를 이용하여 3D 그래픽으로 표현한 1인칭 시점의 미로입니다. 최초의 FPS이자 세계적으로 유명한 [Wolfenstein 3D](http://users.atw.hu/wolf3d/) 게임에서 영감을 받았습니다.
 
 ## Features
