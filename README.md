@@ -9,9 +9,6 @@
 ## Preview
 ![image](https://github.com/nemotheswimmer/cub3D/assets/88709878/c0182362-b0d9-4455-9f96-645295ac42ce)
 
-## Enviroment
-(현재 클러스터 아이맥 크기에 맞춰져 있는 한계 있음)
-
 ## Usage
 `make && ./cub3D descriptionfile/2.cub`
 혹은
